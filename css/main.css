@@ -4,7 +4,12 @@ html {
 *, *::before, *::after {
   box-sizing: inherit;
 }
-
+.medallion {
+  width: 50px;
+  position: absolute;
+  right: 280px;
+  top: 30px
+}
 header {
   background-color: red;
   color: white;
@@ -12,11 +17,13 @@ header {
   margin: 0;
   position: absolute;
   padding: 2em 0em 2em 0em;
+  text-align: center;
+  font-size: 1em;
 
 }
-.medallion {
-  width: 50px;
-  position: fixed;
-  right: 300px;
-
+.symbol {
+  width: 600px;
+  display: block;
+  font-size: 1.75em;
+}
 }
