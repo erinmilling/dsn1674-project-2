@@ -1,5 +1,6 @@
 html {
   box-sizing: border-box;
+  font-family: 'noto-sans', sans-serif;
 }
 *, *::before, *::after {
   box-sizing: inherit;
