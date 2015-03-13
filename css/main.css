@@ -10,7 +10,9 @@ html {
   position: relative;
   top: -10px;
 
-
+}
+body{
+  margin: 0;
 }
 header {
   background-color: red;
@@ -18,7 +20,7 @@ header {
   width: 100%;
   margin: 0;
   position: relative;
-  padding: 2em 0em 2em 0em;
+  padding: 2em 0em 1em 0em;
   text-align: center;
   font-size: 1em;
   display: block;
@@ -42,16 +44,31 @@ h1 {
   top: 20px;
 }
 ol {
-  background-color: black;
+  margin: 0;
   color: white;
   list-style: none;
+  padding: 0;
 }
 nav a{
   text-decoration: none;
   color: white;
-  border: 3px solid #808080;
   padding: 0.5em 0.5em;
+  margin: 0;
 
 }
+nav li {
+  padding: 1em;
+  float: left;
+  width: 50%;
+  background-color: black;
+  margin: 0;
+}
+.banner{
+  position: relative;
+  width: 100%;
+}
+h2{
+  position: absolute;
+  color: white;
 }
 }
