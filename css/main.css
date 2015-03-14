@@ -39,7 +39,6 @@ h1 {
 .symbol {
   width: 100%;
   display: block;
-
   font-size: 3em;
   top: 20px;
 }
@@ -70,5 +69,35 @@ nav li {
 h2{
   position: absolute;
   color: white;
+  bottom: 0;
+  left: 0;
+  font-style: italic;
+  text-shadow: 2px 2px 6px black;
+  font-size: 2em;
+  text-align: center;
+  width: 100%;
+
 }
+.bannerwrap{
+  position: relative;
+}
+p{
+  margin: 1em;
+  line-height: 1.25em;
+}
+.zodiacsign{
+  width: 100%;
+  padding: 1em;
+  margin: 0;
+  background-color: #FFCC00;
+  text-align: center;
+
+}
+.bg-black{
+  background-color: black;
+  color: white;
+}
+.bg-red{
+  background-color: #D11919;
+  color: white;
 }
