@@ -48,12 +48,11 @@ ol {
   list-style: none;
   padding: 0;
 }
-nav a{
+nav a {
   text-decoration: none;
   color: white;
   padding: 0.5em 0.5em;
   margin: 0;
-
 }
 nav li {
   padding: 1em;
@@ -61,6 +60,7 @@ nav li {
   width: 50%;
   background-color: black;
   margin: 0;
+  border: 1px solid grey;
 }
 .banner{
   position: relative;
