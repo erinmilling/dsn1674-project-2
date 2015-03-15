@@ -101,3 +101,39 @@ p{
   background-color: #D11919;
   color: white;
 }
+.dragonsymbol{
+  width: 50%;
+  float: left;
+}
+.dragonpic{
+  width: 50%;
+  float: right;
+}
+.goatsymbol{
+  width: 50%;
+  float: right;
+}
+.goatpic{
+  width: 50%;
+  float: left;
+}
+.roostersymbol{
+  width: 50%;
+  float: left;
+}
+.roosterpic{
+  width: 50%;
+  float: right;
+}
+.oxsymbol{
+  width: 50%;
+  float: right;
+}
+.oxpic{
+  width: 50%;
+  float: left;
+}
+div p{
+  font-style: italic;
+  font-size: .75em;
+}
