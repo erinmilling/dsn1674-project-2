@@ -58,9 +58,9 @@ nav li {
   padding: 1em;
   float: left;
   width: 50%;
-  background-color: black;
+  background-color: #222;
   margin: 0;
-  border: 1px solid grey;
+  border: 1px solid black;
 }
 .banner{
   position: relative;
@@ -140,4 +140,12 @@ div p{
 }
 footer{
   background-color: black;
+  border: 1px solid black;
+  color: white;
+  text-align: center;
+  text-decoration: underline;
+  padding: 1em;
+}
+h4 {
+  margin: 0;
 }
