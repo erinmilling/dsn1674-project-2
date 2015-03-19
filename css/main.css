@@ -80,6 +80,7 @@ h2{
 }
 .bannerwrap{
   position: relative;
+  clear: both;
 }
 p{
   margin: 1em;
