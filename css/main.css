@@ -149,3 +149,11 @@ footer{
 h4 {
   margin: 0;
 }
+footer a,
+footer a:link,
+footer a:active {
+  color: white;
+}
+footer a:hover{
+  color: red;
+}
